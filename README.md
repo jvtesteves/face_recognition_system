@@ -173,7 +173,7 @@ Este projeto está licenciado sob a **MIT License**. Veja [LICENSE](LICENSE) par
 ## 📫 Contato
 
 João Victor Tavares Esteves  
-👤 [jvtesteves@alu.ufc.br](mailto:joaovtesteves2002@gmail.com)  
+👤 [joaovtesteves2002@gmail.com](mailto:joaovtesteves2002@gmail.com)  
 🌐 [GitHub](https://github.com/jvtesteves)  
 
 ---
