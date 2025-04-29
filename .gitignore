@@ -1,0 +1,48 @@
+# --------------------------
+# Ambiente virtual
+# --------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# --------------------------
+# Arquivos Python compilados
+# --------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --------------------------
+# Configurações de IDE
+# --------------------------
+# PyCharm
+.idea/
+# VS Code
+.vscode/
+
+# --------------------------
+# Sistema operacional
+# --------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# --------------------------
+# Dados grandes e binários
+# --------------------------
+# Imagens de treino, dataset e embeddings
+dataset/
+embeddings.pt
+
+# Arquivos de log
+*.log
+
+# --------------------------
+# Distribuição / Packaging
+# --------------------------
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
